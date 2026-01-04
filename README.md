@@ -1,18 +1,8 @@
-# One Public Framework
-
-[![Static Badge](https://img.shields.io/badge/Python-3.11-2b5b84?logo=python)](https://docs.python.org/3.11/)
-[![Static Badge](https://img.shields.io/badge/FastAPI-0.115.12-009485?logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Static Badge](https://img.shields.io/badge/Typescript-5.8.3-3969bc?logo=typescript)](https://www.typescriptlang.org/)
-[![Static Badge](https://img.shields.io/badge/React-19.1.0-6ed1f8?logo=react)](https://react.dev/)
-[![Static Badge](https://img.shields.io/badge/PyCharm-black?logo=pycharm)](https://www.jetbrains.com/help/pycharm/getting-started.html)
-[![Static Badge](https://img.shields.io/badge/VS_Code-black)](https://code.visualstudio.com/)
-
-> :warning: **Work in Progress**: This project is under active development and
-> subject to breaking changes.
+# FaskAPi + React
 
 ## Overview
 
-One Public Framework (OPF) is a unified full-stack boilerplate designed to eliminate
+This is a unified full-stack boilerplate designed to eliminate
 the repetitive and time-consuming setup tasks that come with starting new web projects.
 When kicking off a new frontend-backend separated application, developers often face
 the hassle of:
@@ -24,10 +14,10 @@ the hassle of:
 - Development server and build output wiring
 - Preparing the database
 
-OPF brings everything together into a single monorepo with frontend and backend
+This brings everything together into a single monorepo with frontend and backend
 fully integrated — and you can launch the whole stack with just one command.
 
-Moreover, OPF includes ready-to-use universal features essential to most systems:
+Moreover, this includes ready-to-use universal features essential to most systems:
 
 - :gear: Environment & configuration management
 - :closed_lock_with_key: Authentication (login, token, refresh, etc.)
