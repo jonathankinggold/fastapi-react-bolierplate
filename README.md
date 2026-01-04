@@ -1,4 +1,4 @@
-# FaskAPi + React
+# FaskAPI + React
 
 ## Overview
 
